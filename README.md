@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Atualmente estudo Desenvolvimento Web na Trybe
-- :books: Estou no módulo de Backend aprendendo MongoDb
+- :books: Estou no módulo de Back-end
 - :doughnut: Cozinhar ouvindo música é bom demais um hobby perfeito
 - :stars: Minha música favorita é Rock With You do MJ
 
