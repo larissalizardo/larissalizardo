@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Atualmente estudo Desenvolvimento Web na Trybe
-- :books: Estou no módulo de Back-end
-- :doughnut: Cozinhar ouvindo música é bom demais um hobby perfeito
-- :stars: Minha música favorita é Rock With You do MJ
+- :books: Estou no módulo de ciência da computação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
